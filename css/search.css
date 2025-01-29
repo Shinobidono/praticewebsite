@@ -1,0 +1,80 @@
+
+
+.main {
+    margin-top: 100px;
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bar {
+    width: 600px;
+    line-height: 24px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 1px solid #dfe1e5;
+    border-radius: 24px;
+}
+
+
+
+.btn{
+    margin-top: 10px;
+    margin-right: 10px;
+    background: #dfe1e5;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 7px;
+    padding-bottom:7px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    color: #222222;
+    background: lightgray;
+    width: 270px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border: 1px solid red;
+    border-radius: 10px;
+    padding-top: 6%;
+    padding-bottom: 6%;
+    padding-left: 6%;
+    padding-right: 6%;
+}
+
+.follow {
+    background: white;
+    color: #0f1419;
+    width: 150px;
+    height: 50px;
+    font-size: large;
+    font-weight: bold;
+    border: 1px solid;
+    border-radius: 40px;
+    border-color: #cfd9de;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 6px;
+    padding-right: 6px;
+
+}
+
+
+
